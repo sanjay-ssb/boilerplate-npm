@@ -1,6 +1,6 @@
 {
-	"author": "Sanjay Bhandari",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Sanjay Bhandari",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
